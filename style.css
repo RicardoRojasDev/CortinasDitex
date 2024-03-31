@@ -212,7 +212,6 @@ body {
     height: 3rem;
     font-size: 1.7rem;
     font-weight: 400;
-    border-radius: 100%;
     background-color: var(--bgColor);
     z-index: 4;
     color: var(--accentColor);
